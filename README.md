@@ -1,0 +1,2 @@
+# triviagame
+DBZ trivia
